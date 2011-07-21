@@ -1,0 +1,13 @@
+{
+    "name": "emre",
+    "description": "Object selection like a boss",
+    "keywords": ["object", "utility"],
+    "version": "1.0.0",
+    "homepage": "https://github.com/dawnerd/Emre",
+    "authors": ["Troy Whiteley <troy@somanyscientists.com>"],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/dawnerd/Emre.git"
+    },
+    "main": "emre.js"
+}
