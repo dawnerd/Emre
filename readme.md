@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/dawnerd/Emre.png)](http://travis-ci.org/dawnerd/Emre)
 ## Emre - Object selection like a boss
 
 With Emre, you can access object properties (and set them too!) using a string containing dot-notation-like syntax. Very useful for command like apps that have config settings.
